@@ -58,7 +58,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek:
 
 2. Buka Google Colab:
 
-   - Upload file notebook (`notebook.ipynb`) ke Google Colab.
+   - Upload file notebook (`Hotels Booking Analysis 004 - 217.ipynb`) ke Google Colab.
    - Upload dataset (`hotels.csv`) ke workspace.
 
 3. Jalankan semua sel di notebook untuk mereplikasi hasil analisis.
