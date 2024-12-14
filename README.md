@@ -20,7 +20,7 @@ Proyek ini menggunakan pendekatan eksplorasi data untuk memberikan wawasan yang 
 
 ---
 
-## 📊 **Dataset**<a name="dataset"></a>
+## 📊 **Dataset** <a name="dataset"></a>
 
 Dataset yang digunakan berasal dari [Kaggle - Hotel Booking Demand](https://www.kaggle.com/jessemostipak/hotel-booking-demand). Dataset ini mencakup 119.390 entri dan 32 kolom, termasuk informasi berikut:
 
@@ -33,7 +33,7 @@ Dataset ini telah dibersihkan, diolah, dan dianalisis untuk memberikan wawasan y
 
 ---
 
-## ⚙️ **Dependencies**
+## ⚙️ **Dependencies** <a name="dependencies"></a>
 
 Proyek ini telah diuji pada lingkungan Google Colab. Berikut adalah beberapa library utama yang digunakan:
 
@@ -46,7 +46,7 @@ Semua library ini tersedia untuk diinstal melalui pip jika diperlukan di lingkun
 
 ---
 
-## 🔄 **Getting Started**
+## 🔄 **Getting Started** <a name="getting-started"></a>
 
 Ikuti langkah-langkah di bawah ini untuk menjalankan proyek:
 
@@ -65,7 +65,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek:
 
 ---
 
-## 📊 **Findings**
+## 📊 **Findings** <a name="findings"></a>
 
 ### **Temuan Utama:**
 
@@ -78,13 +78,13 @@ Visualisasi dari temuan ini dapat dilihat di notebook.
 
 ---
 
-## 🔒 **License**
+## 🔒 **License** <a name="license"></a>
 
 Proyek ini dilisensikan di bawah [MIT License](LICENSE), sehingga bebas diakses oleh siapa saja.
 
 ---
 
-## 👥 **Team**
+## 👥 **Team** <a name="team"></a>
 
 - Fernanda Wawang Azraqi [202110370311004]
 - Annisa Artanti Widyadhana [202110370311217]
