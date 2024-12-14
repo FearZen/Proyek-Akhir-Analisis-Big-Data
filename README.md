@@ -14,7 +14,7 @@ Proyek ini menggunakan pendekatan eksplorasi data untuk memberikan wawasan yang 
 2. [Dataset](#dataset)
 3. [Dependencies](#dependencies)
 4. [Getting Started](#getting-started)
-5. [Findings](#findings)
+5. [Findings](##findings)
 6. [License](#license)
 7. [Team](#team)
 
