@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2022 Team Quilted Tutorial
+Copyright (c) 2024 Fernanda Wawang Azraqi and Annisa Artanti Widyadhana
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
