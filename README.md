@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Analysis
+# 🏨 Hotel Booking Analysis <a name="about"></a>
 
 ## **About**
 
@@ -14,13 +14,13 @@ Proyek ini menggunakan pendekatan eksplorasi data untuk memberikan wawasan yang 
 2. [Dataset](#dataset)
 3. [Dependencies](#dependencies)
 4. [Getting Started](#getting-started)
-5. [Findings](##findings)
+5. [Findings](#findings)
 6. [License](#license)
 7. [Team](#team)
 
 ---
 
-## 📊 **Dataset**
+## 📊 **Dataset**<a name="dataset"></a>
 
 Dataset yang digunakan berasal dari [Kaggle - Hotel Booking Demand](https://www.kaggle.com/jessemostipak/hotel-booking-demand). Dataset ini mencakup 119.390 entri dan 32 kolom, termasuk informasi berikut:
 
