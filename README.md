@@ -109,4 +109,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE), sehingga bebas diakses 
 
 ## 👏 **Acknowledgments**
 
-Kami mengucapkan terima kasih kepada dosen dan teman-teman yang telah memberikan bimbingan selama pengerjaan proyek ini. Terima kasih juga kepada [Kaggle](https://www.kaggle.com/) atas dataset yang disediakan.
+Kami mengucapkan terima kasih kepada **Bapak Yuda Munarko, S.Kom., M.Sc** selaku dosen pengampu yang telah memberikan ilmunya untuk keberhasilan proyek ini. Terima kasih juga kepada [Kaggle](https://www.kaggle.com/) atas dataset yang disediakan.
