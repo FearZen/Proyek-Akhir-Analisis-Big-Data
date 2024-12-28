@@ -90,7 +90,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek:
 3. **Lead Time dan Pembatalan:** Pemesanan dengan lead time yang lebih panjang memiliki kemungkinan pembatalan lebih tinggi.
 4. **Pendapatan Rata-Rata (ADR):** _Resort Hotel_ memiliki ADR lebih tinggi dibandingkan _City Hotel_.
 
-###**Visualisasi dari temuan ini dapat dilihat di notebook.**
+### **Visualisasi dari temuan ini dapat dilihat di notebook.**
 
 ---
 
