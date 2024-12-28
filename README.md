@@ -7,15 +7,19 @@ Hotel Booking Analysis adalah proyek yang bertujuan untuk mengeksplorasi dan men
 Proyek ini menggunakan pendekatan eksplorasi data untuk memberikan wawasan yang actionable bagi pengelola hotel untuk meningkatkan strategi pemesanan dan pengalaman pelanggan. Semua analisis dilakukan menggunakan Google Colab.
 
 **🌟 1. Pernyataan Masalah**
+
 Dalam industri perhotelan, pemesanan kamar merupakan elemen kunci yang secara langsung memengaruhi tingkat hunian dan pendapatan. Namun, banyak hotel menghadapi tantangan seperti tingginya angka pembatalan, variasi yang signifikan dalam pendapatan harian rata-rata (Average Daily Rate/ADR), serta kesulitan memahami perilaku pelanggan. Tantangan-tantangan ini dapat menghambat kemampuan hotel dalam menetapkan strategi harga yang efektif dan menjaga kepuasan pelanggan. Oleh karena itu, analisis data pemesanan diperlukan untuk mengungkap pola-pola penting dan faktor-faktor yang memengaruhi operasional hotel.
 
 **🛠️ 2. Rencana Mengatasi Masalah**
+
 Untuk mengatasi tantangan ini, kami akan menggunakan dataset pemesanan hotel yang berisi informasi penting, seperti tanggal pemesanan, tipe kamar, lama menginap, dan ADR. Data ini akan diproses dan dianalisis menggunakan metodologi eksplorasi data untuk memahami pola serta tren yang relevan. Kami akan membersihkan dataset, mengelompokkan informasi, dan menerapkan analisis statistik untuk menggali wawasan. Semua langkah ini dilakukan di Google Colab menggunakan pustaka Python seperti Pandas, Matplotlib, dan Seaborn untuk mempermudah pengolahan dan visualisasi data.
 
 **📊 3. Pendekatan/Teknik Analisis**
+
 Pendekatan yang kami gunakan mencakup eksplorasi data untuk mempelajari distribusi variabel penting seperti ADR dan pola pembatalan. Analisis deskriptif dilakukan untuk mendapatkan gambaran umum mengenai tren pelanggan, sementara segmentasi digunakan untuk mengelompokkan pelanggan berdasarkan preferensi tertentu. Visualisasi data menjadi alat utama dalam menyampaikan hasil analisis secara jelas dan mudah dipahami. Pendekatan ini dirancang untuk membantu mengatasi sebagian besar tantangan yang telah diidentifikasi.
 
 **🎯 4. Manfaat Analisis untuk Konsumen**
+
 Hasil analisis ini akan memberikan nilai tambah bagi pengelola hotel. Dengan wawasan tentang tren ADR dan perilaku pelanggan, hotel dapat mengoptimalkan harga kamar untuk meningkatkan pendapatan. Pola pembatalan yang teridentifikasi juga memungkinkan hotel untuk menyusun kebijakan yang lebih baik dalam menangani pembatalan. Selain itu, memahami preferensi pelanggan membantu hotel dalam menawarkan layanan yang lebih personal dan meningkatkan pengalaman pelanggan. Wawasan ini juga dapat digunakan untuk menyusun kampanye pemasaran yang lebih efektif, dengan fokus pada segmen pelanggan yang paling potensial.
 
 ---
